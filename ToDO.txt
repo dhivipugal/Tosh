@@ -1,0 +1,15 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Dhivyas-MacBook-Pro:~ dhivya$ cd desktop
+Dhivyas-MacBook-Pro:desktop dhivya$ mkdir ToDoList
+Dhivyas-MacBook-Pro:desktop dhivya$ cd ToDoList/
+Dhivyas-MacBook-Pro:ToDoList dhivya$ ls
+Dhivyas-MacBook-Pro:ToDoList dhivya$ touch ToDo
+Dhivyas-MacBook-Pro:ToDoList dhivya$ delete ToDo
+-bash: delete: command not found
+
+
+
+tetydhjutt
